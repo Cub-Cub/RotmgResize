@@ -1,0 +1,2 @@
+# RotmgResize
+Resizes Rotmg Window
